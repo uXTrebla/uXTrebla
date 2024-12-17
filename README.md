@@ -35,6 +35,7 @@ I have extensive experience guiding teams through structured project lifecycles 
 ## Interests
 
 - 📚 Continuous learning and professional development in project management and leadership.  
+- 🚀 Driving enterprise transformations with a focus on scalability and innovation  
 - 🌍 Exploring innovative ways to enhance productivity and collaboration.  
 - 🤝 Building meaningful connections and sharing knowledge.
 
