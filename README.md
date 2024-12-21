@@ -45,8 +45,8 @@ I have extensive experience guiding teams through structured project lifecycles 
 
 Feel free to connect with me to discuss project management, leadership, or professional growth opportunities!  
 
-- [**LinkedIn**](https://www.linkedin.com/in/albertxuwh/)
-- [**Email**](albert.xuwh@gmail.com)
+- **LinkedIn:** [linkedin.com/in/albertxuwh](https://www.linkedin.com/in/albertxuwh/)
+-    **Email:** [albert.xuwh@gmail.com](mailto:albert.xuwh@gmail.com)
 
 ---
 
