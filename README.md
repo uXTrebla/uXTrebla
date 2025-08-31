@@ -61,3 +61,5 @@ I'm also a long time lurker on Github, occasionally working on small technical p
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uxtrebla/uxtrebla/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uxtrebla/uxtrebla/output/github-contribution-grid-snake.svg">
 </picture>
+
+Credits to [Platane](https://github.com/Platane/snk) for the snake game animation
