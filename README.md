@@ -19,8 +19,8 @@ I have extensive experience guiding teams through structured project lifecycles 
 - **Frameworks:** Scrum, Waterfall, Hybrid 
 - **Soft Skills:** Leadership | Communication | Risk Management | Team Collaboration | Time Management  
 - **Certifications:**  
-  - Project Management Professional (PMP)
-  - Certified Scrum Master (CSM)
+  - [Project Management Professional (PMP)](https://www.credly.com/badges/48cda774-af8a-403c-b01b-3ecab303f3b9/public_url)
+  - [Certified Scrum Master (CSM)](https://certification.scrumalliance.org/accounts/1318025-albert-xu/certifications/1532245-csm)
 
 ---
 
